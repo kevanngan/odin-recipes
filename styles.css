@@ -1,0 +1,16 @@
+/*styles.css */
+
+h1 {
+    color: green;
+    text-align: center;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+body {
+    background: linear-gradient(45deg, #66ff33, #ff99cc);
+    height: 100vh;
+}
